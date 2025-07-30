@@ -1,34 +1,27 @@
-# Hey, I'm Clarxin! 👋
+# Hi there! 👋
+I’m Clarxin, a passionate developer who loves creating web applications and exploring new technologies.
 
 ## About Me
-I'm a passionate developer with a strong interest in building creative and innovative solutions. I specialize in web development and enjoy learning new technologies. 
+I specialize in web development, focusing mainly on **HTML**, **CSS**, and **JavaScript**. I’m constantly learning new tools and frameworks to improve my skills. When I’m not coding, you’ll find me exploring the latest tech trends, watching anime, or enjoying a good cup of coffee.
 
-- 🌱 Currently, I'm focusing on building web-based applications.
-- 🎮 In my free time, I enjoy playing games and exploring new tech.
-- 🧑‍💻 I am constantly improving my skills in **JavaScript**, **HTML**, and **CSS**.
-- 💬 Ask me about **web development** or **music apps**.
-
-## My Projects
-Here are some of my top repositories:
-
-- [**musicplaylist**](https://github.com/clarxxinn/musicplaylist): A simple web-based music player built with **HTML**, **CSS**, and **JavaScript**. 🎶
-- [Add another project here] - Description of another project you are working on.
-
-## Technologies I Use
-- **Frontend**: HTML, CSS, JavaScript
-- **Libraries & Frameworks**: Font Awesome, jQuery
-- **Tools**: Git, GitHub, VSCode
+**Fun Facts:**
+- I don’t like coffee (but love tea!).
+- My favorite anime is **Demon Slayer**.
+- I’m a firm believer in building accessible, user-friendly web interfaces.
 
 ## Achievements
-- Created **76 commits** in **musicplaylist** in just 2025.
-- Contributed to open-source projects, enhancing their features.
-  
-## Fun Facts
-- I love experimenting with UI/UX designs and learning about design systems.
-- **Demon Slayer** is one of my favorite anime series! 😄
+- Created **musicplaylist**, a simple web-based music player with **HTML**, **CSS**, and **JavaScript**.
+- Contributed to open-source projects and created **76 commits** in 2025.
+- Building my way up to become a **better full-stack developer**.
+
+## Fun Projects:
+Here are a few of my cool projects:
+- [**musicplaylist**](https://github.com/clarxxinn/musicplaylist) - A web-based music player to create personalized playlists 🎶
+- [Add another project here] - Description of your next exciting project.
 
 ## Let's Connect!
 - [Twitter](https://twitter.com/clarxxinn)
 - [LinkedIn](https://www.linkedin.com/in/clarxxinn)
+- [Website](https://clarxxinn.com)
 
-Thanks for checking out my profile! 🌟
+Thanks for visiting my profile! 😊
