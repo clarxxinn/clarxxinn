@@ -6,5 +6,4 @@ I enjoy turning ideas into reality with **HTML**, **CSS**, and **JavaScript**.
 Outside of coding, you’ll find me watching anime, playing video games, or working on personal projects. I also love sharing tech content and learning new things.
 
 **Fun Facts:**  
-- I don’t like coffee, but I love tea!  
-- **One Punch Man** is my favorite anime.  
+- I don’t like coffee, but I love tea!
